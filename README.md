@@ -60,7 +60,7 @@ Dự án này bao gồm hai bot Discord với các chức năng mạnh mẽ:
 3. API Key sẽ được tạo. Sao chép và lưu lại API Key này.
 ### **1. Yêu cầu hệ thống**
 - Python 3.10 trở lên.
-- `ffmpeg` (tải từ [ffmpeg.org](https://ffmpeg.org)).
+- `ffmpeg` .
 
 ### **5. Hạn chế quyền API Key (khuyến nghị)**
 1. Nhấn vào API Key vừa tạo.
@@ -102,13 +102,6 @@ pip install -r requirements.txt
 ```
 ### **5. Cấu hình file `.env`**
 1. Sửa file `.env` trong thư mục dự án:
-1. Clone dự án:
-   ```bash
-   nano .env
-   git clone <repo_url>
-   cd <repo_directory>
-   ```
-
 2. Thêm nội dung:
    ```env
    DISCORD_TOKEN=<Token Discord của bot nhạc>
@@ -149,10 +142,6 @@ pip install -r requirements.txt
    Environment="PYTHONUNBUFFERED=1"
    [Install]
    WantedBy=multi-user.target
-   python -m venv venv
-   source venv/bin/activate  # Linux/macOS
-   venv\Scripts\activate     # Windows
-   pip install -r requirements.txt
    ```
 
 3. Lưu file và tải lại cấu hình:
@@ -160,20 +149,12 @@ pip install -r requirements.txt
    sudo systemctl daemon-reload
    sudo systemctl enable discord-bot.service
    sudo systemctl start discord-bot.service
-3. Tạo file `.env`:
-   ```env
-   DISCORD_TOKEN=<Token của bot nhạc>
-   DISCORD_TOKEN_2=<Token của bot giọng nói>
-   YOUTUBE_API_KEY=<API key YouTube>
    ```
 
 4. Kiểm tra trạng thái:
    ```bash
    sudo systemctl status discord-bot.service
    ```
-4. Chạy bot:
-   - Bot nhạc: `python3 bot.py`
-   - Bot giọng nói: `python3 voice.py`
 
 ---
 
@@ -187,21 +168,9 @@ pip install -r requirements.txt
 - `!resume`: Tiếp tục phát nhạc.
 - `!skip`: Bỏ qua bài hát.
 - `!stop`: Dừng phát và ngắt kết nối.
-### **Bot nhạc (`bot.py`)**
-- Tiền tố lệnh: `!`
-- Các lệnh chính:
-  - `!play <tên bài hát/URL>`: Phát nhạc.
-  - `!stop`: Ngừng phát nhạc và ngắt kết nối.
-  - `!pause`: Tạm dừng nhạc.
-  - `!resume`: Tiếp tục phát nhạc.
-  - `!skip`: Bỏ qua bài hát hiện tại.
 
 ### **Bot giọng nói**
 - `?say <nội dung>`: Bot phát âm thanh từ văn bản.
-### **Bot giọng nói (`voice.py`)**
-- Tiền tố lệnh: `?`
-- Các lệnh chính:
-  - `?say <nội dung>`: Phát âm thanh từ nội dung nhập vào.
 - Tự động chào người dùng khi họ vào kênh thoại.
 
 ---
@@ -231,9 +200,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📞 **Liên hệ**
-Nếu gặp vấn đề, vui lòng liên hệ qua [GitHub Issues](https://github.com/your-repo-url/issues).
----
+
 
 ## **📝 Tác giả**
 Dự án được phát triển để hỗ trợ cộng đồng Discord. Nếu bạn thấy hữu ích, hãy để lại ⭐ trên GitHub của chúng tôi!
