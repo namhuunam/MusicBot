@@ -199,9 +199,6 @@ pip install -r requirements.txt
 
 ---
 
-## **📞 Liên hệ**
-Nếu gặp vấn đề, vui lòng liên hệ qua [GitHub Issues](https://github.com/your-repo-url/issues).
-
 ---
 
 ## **📝 Tác giả**
