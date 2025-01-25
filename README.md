@@ -87,8 +87,8 @@ sudo apt install python3 python3-pip python3-venv ffmpeg git -y
 
 ### **3. Clone dự án**
 ```bash
-git clone https://github.com/namhuunam/bot-music.git
-cd bot-music
+git clone https://github.com/namhuunam/MusicBot.git
+cd MusicBot
 ```
 
 ### **4. Tạo môi trường ảo và cài đặt thư viện**
