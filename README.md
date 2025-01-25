@@ -68,10 +68,10 @@ Dự án này bao gồm hai bot Discord với các chức năng mạnh mẽ:
 
 ## 📋 **Hướng dẫn tạo bot discord, cần tạo 2 con bot discord**
 1. Mở [Discord Developer Portal](https://discord.com/developers/applications).
-2. Bấm nút **New Application**
+2. Bấm nút `New Application`
 3. Nhập tên bot mà bạn muốn (sau đó tải ảnh avt tùy theo ý muốn của bạn)
-4. Bấm vào biểu tượng Bot ở cột bên phải sau đó bấm nút **Reset Token** rồi Copy token và nhập vào file .env
-5. Tương tự tạo tiếp một Bot nữa như các bước trên rồi nhập vào **DISCORD_TOKEN_2** trong file **.env** để làm bot chuyển text sang giọng đọc
+4. Bấm vào biểu tượng Bot ở cột bên phải sau đó bấm nút `Reset Token` rồi Copy token và nhập vào file .env
+5. Tương tự tạo tiếp một Bot nữa như các bước trên rồi nhập vào `DISCORD_TOKEN_2` trong file `.env` để làm bot chuyển text sang giọng đọc
 
 ## **Hướng dẫn cài đặt trên Linux (Ubuntu)**
 
