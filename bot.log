@@ -1,0 +1,386 @@
+2025-01-25 15:56:18,825 - discord.client - INFO - logging in using static token
+2025-01-25 15:56:20,145 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7bece45db89df27d591bc8e06f4c7403).
+2025-01-25 15:56:22,172 - __main__ - INFO - Bot đã đăng nhập với tên: Bé iuuu#6877
+2025-01-25 15:56:42,242 - __main__ - INFO - Đang xử lý bài hát: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 15:56:42,243 - discord.voice_state - INFO - Connecting to voice...
+2025-01-25 15:56:42,244 - discord.voice_state - INFO - Starting voice handshake... (connection attempt 1)
+2025-01-25 15:56:43,323 - discord.voice_state - INFO - Voice handshake complete. Endpoint found: hongkong11061.discord.media
+2025-01-25 15:56:43,582 - discord.voice_state - INFO - Voice connection complete.
+2025-01-25 15:56:44,556 - __main__ - ERROR - yt_dlp trả về None cho thông tin video tại https://www.youtube.com/watch?v=HJiRzTmn5X4.
+2025-01-25 15:57:41,966 - __main__ - ERROR - Lỗi khi timeout SongSelectionView: 404 Not Found (error code: 10008): Unknown Message
+2025-01-25 15:58:35,535 - discord.voice_state - INFO - The voice handshake is being terminated for Channel ID 595978329555730443 (Guild ID 486785759119147008)
+2025-01-25 15:58:43,775 - discord.client - INFO - logging in using static token
+2025-01-25 15:58:45,232 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 762ede28d00ac636dbc0599810f7b06c).
+2025-01-25 15:58:47,435 - __main__ - INFO - Bot đã đăng nhập với tên: Bé iuuu#6877
+2025-01-25 15:59:00,875 - __main__ - INFO - Đang xử lý bài hát: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 15:59:00,876 - discord.voice_state - INFO - Connecting to voice...
+2025-01-25 15:59:00,876 - discord.voice_state - INFO - Starting voice handshake... (connection attempt 1)
+2025-01-25 15:59:01,316 - discord.voice_state - INFO - Voice handshake complete. Endpoint found: hongkong11061.discord.media
+2025-01-25 15:59:01,552 - discord.voice_state - INFO - Voice connection complete.
+2025-01-25 15:59:07,246 - __main__ - INFO - URL âm thanh cho guild 486785759119147008: https://rr3---sn-42u-i2is.googlevideo.com/videoplayback?expire=1737813543&ei=x5mUZ8mBF6nv7OsP9NWnuAo&ip=2403%3A6a40%3A0%3A13%3Aa313%3A627c%3Ad6b6%3Ad75a&id=o-AEXxZA4S4xrEDYlpXRnI2K67F1zOyfrx-e-oEnVAzb-A&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737791943%2C&mh=S8&mm=31%2C26&mn=sn-42u-i2is%2Csn-30a7rne6&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=1748750&bui=AY2Et-On-m-tQv-gjDtzyHwLUunBAub1LEGxXslmrk8zw9UF5ScdV9gxfMv0WS-NCd0RGPHNA1nwT8GX&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=ypmjdNE_8wtRaT3dHc4CgIwQ&rqh=1&gir=yes&clen=1464425&dur=83.261&lmt=1729375556773184&mt=1737791571&fvip=4&keepalive=yes&lmw=1&fexp=51326932%2C51335594%2C51353498%2C51371294&c=TVHTML5&sefc=1&txp=5532434&n=bDE4S1epBQRZGw&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRAIgUN0Snl7DUEqmulIADjZ4Z5xtfbrcQowkiV2klFozkv4CIGwDITN6aoCitK3GLATOZsMQ77MF3kLllPvjEKdeYmMw&sig=AJfQdSswRQIhALmRInGvd17__MWwrqf1qgzyKOgiKitRN-1m9OD4mTghAiAYTzgBipECHZaMrToN5AVDmZwu-IIbuPunnG0yOPsyGg%3D%3D
+2025-01-25 15:59:07,247 - __main__ - INFO - Đang cố gắng phát: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 15:59:07,250 - __main__ - INFO - Đã phát: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 15:59:07,861 - discord.player - INFO - ffmpeg process 148133 has not terminated. Waiting to terminate...
+2025-01-25 15:59:07,863 - discord.player - INFO - ffmpeg process 148133 should have terminated with a return code of 1.
+2025-01-25 15:59:08,604 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 15:59:08,608 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 15:59:09,115 - discord.player - INFO - ffmpeg process 148135 has not terminated. Waiting to terminate...
+2025-01-25 15:59:09,117 - discord.player - INFO - ffmpeg process 148135 should have terminated with a return code of 1.
+2025-01-25 15:59:09,911 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 15:59:09,915 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 15:59:10,424 - discord.player - INFO - ffmpeg process 148137 has not terminated. Waiting to terminate...
+2025-01-25 15:59:10,426 - discord.player - INFO - ffmpeg process 148137 should have terminated with a return code of 1.
+2025-01-25 15:59:11,408 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 15:59:11,415 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 15:59:11,907 - discord.player - INFO - ffmpeg process 148139 has not terminated. Waiting to terminate...
+2025-01-25 15:59:11,910 - discord.player - INFO - ffmpeg process 148139 should have terminated with a return code of 1.
+2025-01-25 15:59:12,767 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 15:59:12,770 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 15:59:13,273 - discord.player - INFO - ffmpeg process 148141 has not terminated. Waiting to terminate...
+2025-01-25 15:59:13,275 - discord.player - INFO - ffmpeg process 148141 should have terminated with a return code of 1.
+2025-01-25 15:59:14,134 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 15:59:14,139 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 15:59:14,648 - discord.player - INFO - ffmpeg process 148143 has not terminated. Waiting to terminate...
+2025-01-25 15:59:14,650 - discord.player - INFO - ffmpeg process 148143 should have terminated with a return code of 1.
+2025-01-25 15:59:19,301 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 15:59:19,305 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 15:59:19,843 - discord.player - INFO - ffmpeg process 148145 has not terminated. Waiting to terminate...
+2025-01-25 15:59:19,845 - discord.player - INFO - ffmpeg process 148145 should have terminated with a return code of 1.
+2025-01-25 15:59:20,558 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 15:59:20,563 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 15:59:21,102 - discord.player - INFO - ffmpeg process 148147 has not terminated. Waiting to terminate...
+2025-01-25 15:59:21,104 - discord.player - INFO - ffmpeg process 148147 should have terminated with a return code of 1.
+2025-01-25 15:59:21,129 - discord.voice_state - INFO - The voice handshake is being terminated for Channel ID 595978329555730443 (Guild ID 486785759119147008)
+2025-01-25 16:01:30,491 - discord.client - INFO - logging in using static token
+2025-01-25 16:01:31,924 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ab16ce918d85452a7854f7458d5033e1).
+2025-01-25 16:01:33,942 - __main__ - INFO - Bot đã đăng nhập với tên: Bé iuuu#6877
+2025-01-25 16:01:41,413 - __main__ - INFO - Đang xử lý bài hát: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 16:01:41,414 - discord.voice_state - INFO - Connecting to voice...
+2025-01-25 16:01:41,414 - discord.voice_state - INFO - Starting voice handshake... (connection attempt 1)
+2025-01-25 16:01:41,871 - discord.voice_state - INFO - Voice handshake complete. Endpoint found: hongkong11061.discord.media
+2025-01-25 16:01:42,129 - discord.voice_state - INFO - Voice connection complete.
+2025-01-25 16:01:49,777 - __main__ - INFO - URL âm thanh cho guild 486785759119147008: https://rr3---sn-42u-i2is.googlevideo.com/videoplayback?expire=1737813703&ei=Z5qUZ5L1K9vFs8IPm_qnuA0&ip=2403%3A6a40%3A0%3A13%3Aa313%3A627c%3Ad6b6%3Ad75a&id=o-AMeym5R1P2swskqd6K8M1fIFREtc1LZiZOu12wBO2wmk&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737792103%2C&mh=S8&mm=31%2C26&mn=sn-42u-i2is%2Csn-30a7rne6&ms=au%2Conr&mv=m&mvi=3&pcm2cms=yes&pl=48&rms=au%2Cau&pcm2=no&initcwndbps=1748750&bui=AY2Et-PSBODSEiWfBWtL5hZtIzBikptwG4_D76rwzg-wJxxkCPS2PBk6u_5KWohsKzHMl9Ru5pzX6psA&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=EHpwd0IM6nuNHG9GQDWhXIYQ&rqh=1&gir=yes&clen=1464425&dur=83.261&lmt=1729375556773184&mt=1737791827&fvip=4&keepalive=yes&lmw=1&fexp=51326932%2C51335594%2C51353498%2C51371294&c=TVHTML5&sefc=1&txp=5532434&n=0fxtRzSoDre31Q&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cpcm2%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAM5A3Af1dXFtTtXLUTFUWrZus-cv-4nGM9cGPqP9pJ44AiEAr_ZLZ5EwdY5c4jzD0KO8Fyvh8ZF_2w4in97CuXtsBXI%3D&sig=AJfQdSswRAIgJtaj9fi7zioE-oQ63Co48C6eCqZ9qJjBTk3ThvXdvR4CIDdZdWJ21msnGco9CamEwgGpPdzR5IdOsiNkg8lI242q
+2025-01-25 16:01:49,778 - __main__ - INFO - Đang cố gắng phát: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 16:01:49,783 - __main__ - INFO - Đã phát: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 16:01:50,323 - discord.player - INFO - ffmpeg process 148315 has not terminated. Waiting to terminate...
+2025-01-25 16:01:50,326 - discord.player - INFO - ffmpeg process 148315 should have terminated with a return code of 1.
+2025-01-25 16:01:51,257 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 16:01:51,261 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 16:01:51,770 - discord.player - INFO - ffmpeg process 148317 has not terminated. Waiting to terminate...
+2025-01-25 16:01:51,773 - discord.player - INFO - ffmpeg process 148317 should have terminated with a return code of 1.
+2025-01-25 16:01:52,449 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 16:01:52,453 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 16:01:52,960 - discord.player - INFO - ffmpeg process 148319 has not terminated. Waiting to terminate...
+2025-01-25 16:01:52,962 - discord.player - INFO - ffmpeg process 148319 should have terminated with a return code of 1.
+2025-01-25 16:01:53,683 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 16:01:53,687 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 16:01:54,194 - discord.player - INFO - ffmpeg process 148321 has not terminated. Waiting to terminate...
+2025-01-25 16:01:54,196 - discord.player - INFO - ffmpeg process 148321 should have terminated with a return code of 1.
+2025-01-25 16:01:54,221 - discord.voice_state - INFO - The voice handshake is being terminated for Channel ID 595978329555730443 (Guild ID 486785759119147008)
+2025-01-25 16:06:03,321 - discord.client - INFO - logging in using static token
+2025-01-25 16:06:04,673 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c968a9533d0337566b6397a14cfdb147).
+2025-01-25 16:06:06,715 - __main__ - INFO - Bot đã đăng nhập với tên: Bé iuuu#6877
+2025-01-25 16:07:07,880 - __main__ - INFO - Đang xử lý bài hát: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 16:07:07,881 - discord.voice_state - INFO - Connecting to voice...
+2025-01-25 16:07:07,882 - discord.voice_state - INFO - Starting voice handshake... (connection attempt 1)
+2025-01-25 16:07:08,319 - discord.voice_state - INFO - Voice handshake complete. Endpoint found: hongkong11061.discord.media
+2025-01-25 16:07:08,590 - discord.voice_state - INFO - Voice connection complete.
+2025-01-25 16:07:13,828 - __main__ - INFO - URL âm thanh cho guild 486785759119147008: https://rr3---sn-42u-i2is.googlevideo.com/videoplayback?expire=1737814029&ei=rZuUZ9_IOPrEs8IP88fl2Q0&ip=2403%3A6a40%3A0%3A13%3Aa313%3A627c%3Ad6b6%3Ad75a&id=o-ABR0lXouYat75ICtUiTI2uMFmU04cMybY2vCC5w4B55c&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737792429%2C&mh=S8&mm=31%2C26&mn=sn-42u-i2is%2Csn-30a7ynl7&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=2340000&bui=AY2Et-PPrcZVXoMJFubdV7s26tFYwxq2bpk-sgD2R7ppMIBxWA_zeusf5ukzadJHzCynhu7G8UZvgn2J&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=H9dT95aHKAjyitlXFKn-AKQQ&rqh=1&gir=yes&clen=1464425&dur=83.261&lmt=1729375556773184&mt=1737792051&fvip=5&keepalive=yes&lmw=1&fexp=51326932%2C51335594%2C51353498%2C51371294&c=TVHTML5&sefc=1&txp=5532434&n=aHsXJwhoszxRKQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRQIgKTuHZaeR8T_1DG26-MQ44EEgFlAFWsNs1RGFpvZkbFICIQC9KNj2-KBMR-85K6psYvW-Re8KKOdKTRrkUe8r9QDuVg%3D%3D&sig=AJfQdSswRAIgVL92Q9HArEFYQZn9QC6JEFm6er_GT46QfSGny5BlPQMCIDAeQQCh82GMQPqg0Xz_cm93g4nqW025gN2fNr3nKe58
+2025-01-25 16:07:13,829 - __main__ - INFO - Đang cố gắng phát: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 16:07:13,835 - __main__ - INFO - Đã phát: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 16:07:31,562 - discord.voice_state - INFO - The voice handshake is being terminated for Channel ID 595978329555730443 (Guild ID 486785759119147008)
+2025-01-25 16:07:31,582 - discord.player - INFO - ffmpeg process 148359 successfully terminated with return code of -9.
+2025-01-25 16:07:32,271 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 16:07:32,273 - __main__ - ERROR - Lỗi khi phát bài tiếp theo: Not connected to voice.
+2025-01-25 16:07:32,273 - discord.player - INFO - ffmpeg process 148362 has not terminated. Waiting to terminate...
+2025-01-25 16:07:32,274 - discord.player - INFO - ffmpeg process 148362 should have terminated with a return code of -9.
+2025-01-25 16:11:00,048 - discord.client - INFO - logging in using static token
+2025-01-25 16:11:01,393 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c95c1e42d456fd9b5d0b93f1d59af4b1).
+2025-01-25 16:11:03,458 - __main__ - INFO - Bot đã đăng nhập với tên: Bé iuuu#6877
+2025-01-25 18:56:57,215 - __main__ - INFO - Bot đã ngắt kết nối khỏi Discord.
+2025-01-25 18:56:57,713 - discord.gateway - INFO - Shard ID None has successfully RESUMED session c95c1e42d456fd9b5d0b93f1d59af4b1.
+2025-01-25 21:01:13,783 - __main__ - INFO - Bot đã ngắt kết nối khỏi Discord.
+2025-01-25 21:01:14,263 - discord.gateway - INFO - Shard ID None has successfully RESUMED session c95c1e42d456fd9b5d0b93f1d59af4b1.
+2025-01-25 22:03:52,643 - __main__ - INFO - Đang xử lý bài hát: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:03:52,645 - discord.voice_state - INFO - Connecting to voice...
+2025-01-25 22:03:52,645 - discord.voice_state - INFO - Starting voice handshake... (connection attempt 1)
+2025-01-25 22:03:53,082 - discord.voice_state - INFO - Voice handshake complete. Endpoint found: hongkong11083.discord.media
+2025-01-25 22:03:53,383 - discord.voice_state - INFO - Voice connection complete.
+2025-01-25 22:03:58,742 - __main__ - INFO - URL âm thanh cho guild 486785759119147008: https://rr3---sn-42u-i2is.googlevideo.com/videoplayback?expire=1737835434&ei=Su-UZ5n6LcO-vcAPrbHfiQw&ip=2403%3A6a40%3A0%3A13%3Aa313%3A627c%3Ad6b6%3Ad75a&id=o-AKaOywaE1raabdHqfxpQzsUmUM_T3Q3J5fBaX2EGen4k&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737813834%2C&mh=S8&mm=31%2C26&mn=sn-42u-i2is%2Csn-30a7rne6&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=2492500&bui=AY2Et-NqlUn9mU7mAt0hO7e4QqOShSr43oiHVX4CstUkOre-47LHI7CHzyuSewX8ADBInEON6tFlhTnA&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=OA9CMG_eDZq2jEopQkjylmUQ&rqh=1&gir=yes&clen=1464425&dur=83.261&lmt=1729375556773184&mt=1737813415&fvip=4&keepalive=yes&lmw=1&fexp=51326932%2C51335594%2C51353498%2C51371294&c=TVHTML5&sefc=1&txp=5532434&n=ox7rEZEswmg5xA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRQIhAP8P9kQCRkccPdWCbZMTKskPrMOQ3vVCwlMxdN1ooY-cAiBkOf2pjnVletinxUMljkG5JlT-e2vvFLO69RC2Tx7JBA%3D%3D&sig=AJfQdSswRgIhALeUqeFlUJ-hW_xSGGQ4spP4pNGIGH5WXn4N5UBDVvcaAiEA002b8dyJ6H4JzCCXBz-bYDqMd0-wTr1jSiTjm20ESyw%3D
+2025-01-25 22:03:58,744 - __main__ - INFO - Đang cố gắng phát: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:03:58,747 - __main__ - INFO - Đã phát: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:04:52,318 - __main__ - ERROR - Lỗi khi timeout SongSelectionView: 404 Not Found (error code: 10008): Unknown Message
+2025-01-25 22:05:22,070 - discord.player - INFO - ffmpeg process 149060 successfully terminated with return code of 0.
+2025-01-25 22:05:22,891 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:22,898 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:23,365 - discord.player - INFO - ffmpeg process 149069 has not terminated. Waiting to terminate...
+2025-01-25 22:05:23,368 - discord.player - INFO - ffmpeg process 149069 should have terminated with a return code of 1.
+2025-01-25 22:05:24,180 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:24,185 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:24,713 - discord.player - INFO - ffmpeg process 149071 has not terminated. Waiting to terminate...
+2025-01-25 22:05:24,715 - discord.player - INFO - ffmpeg process 149071 should have terminated with a return code of 1.
+2025-01-25 22:05:25,422 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:25,427 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:25,923 - discord.player - INFO - ffmpeg process 149073 has not terminated. Waiting to terminate...
+2025-01-25 22:05:25,925 - discord.player - INFO - ffmpeg process 149073 should have terminated with a return code of 1.
+2025-01-25 22:05:26,762 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:26,767 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:27,292 - discord.player - INFO - ffmpeg process 149075 has not terminated. Waiting to terminate...
+2025-01-25 22:05:27,296 - discord.player - INFO - ffmpeg process 149075 should have terminated with a return code of 1.
+2025-01-25 22:05:28,033 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:28,039 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:28,515 - discord.player - INFO - ffmpeg process 149077 has not terminated. Waiting to terminate...
+2025-01-25 22:05:28,517 - discord.player - INFO - ffmpeg process 149077 should have terminated with a return code of 1.
+2025-01-25 22:05:33,827 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:33,834 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:34,348 - discord.player - INFO - ffmpeg process 149080 has not terminated. Waiting to terminate...
+2025-01-25 22:05:34,352 - discord.player - INFO - ffmpeg process 149080 should have terminated with a return code of 1.
+2025-01-25 22:05:35,164 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:35,170 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:35,707 - discord.player - INFO - ffmpeg process 149082 has not terminated. Waiting to terminate...
+2025-01-25 22:05:35,709 - discord.player - INFO - ffmpeg process 149082 should have terminated with a return code of 1.
+2025-01-25 22:05:36,678 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:36,684 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:37,194 - discord.player - INFO - ffmpeg process 149084 has not terminated. Waiting to terminate...
+2025-01-25 22:05:37,196 - discord.player - INFO - ffmpeg process 149084 should have terminated with a return code of 1.
+2025-01-25 22:05:38,173 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:38,179 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:38,709 - discord.player - INFO - ffmpeg process 149086 has not terminated. Waiting to terminate...
+2025-01-25 22:05:38,711 - discord.player - INFO - ffmpeg process 149086 should have terminated with a return code of 1.
+2025-01-25 22:05:39,527 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:39,533 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:40,011 - discord.player - INFO - ffmpeg process 149088 has not terminated. Waiting to terminate...
+2025-01-25 22:05:40,013 - discord.player - INFO - ffmpeg process 149088 should have terminated with a return code of 1.
+2025-01-25 22:05:40,820 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:40,824 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:41,298 - discord.player - INFO - ffmpeg process 149090 has not terminated. Waiting to terminate...
+2025-01-25 22:05:41,301 - discord.player - INFO - ffmpeg process 149090 should have terminated with a return code of 1.
+2025-01-25 22:05:46,037 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:46,041 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:46,610 - discord.player - INFO - ffmpeg process 149092 has not terminated. Waiting to terminate...
+2025-01-25 22:05:46,612 - discord.player - INFO - ffmpeg process 149092 should have terminated with a return code of 1.
+2025-01-25 22:05:47,347 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:47,353 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:47,837 - discord.player - INFO - ffmpeg process 149094 has not terminated. Waiting to terminate...
+2025-01-25 22:05:47,839 - discord.player - INFO - ffmpeg process 149094 should have terminated with a return code of 1.
+2025-01-25 22:05:48,522 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:48,531 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:49,128 - discord.player - INFO - ffmpeg process 149098 has not terminated. Waiting to terminate...
+2025-01-25 22:05:49,136 - discord.player - INFO - ffmpeg process 149098 should have terminated with a return code of 1.
+2025-01-25 22:05:49,847 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:49,855 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:50,376 - discord.player - INFO - ffmpeg process 149188 has not terminated. Waiting to terminate...
+2025-01-25 22:05:50,378 - discord.player - INFO - ffmpeg process 149188 should have terminated with a return code of 1.
+2025-01-25 22:05:51,087 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:51,094 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:51,605 - discord.player - INFO - ffmpeg process 149199 has not terminated. Waiting to terminate...
+2025-01-25 22:05:51,607 - discord.player - INFO - ffmpeg process 149199 should have terminated with a return code of 1.
+2025-01-25 22:05:56,472 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:56,479 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:57,007 - discord.player - INFO - ffmpeg process 149201 has not terminated. Waiting to terminate...
+2025-01-25 22:05:57,010 - discord.player - INFO - ffmpeg process 149201 should have terminated with a return code of 1.
+2025-01-25 22:05:57,855 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:57,861 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:58,360 - discord.player - INFO - ffmpeg process 149203 has not terminated. Waiting to terminate...
+2025-01-25 22:05:58,363 - discord.player - INFO - ffmpeg process 149203 should have terminated with a return code of 1.
+2025-01-25 22:05:59,179 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:59,184 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:05:59,677 - discord.player - INFO - ffmpeg process 149205 has not terminated. Waiting to terminate...
+2025-01-25 22:05:59,679 - discord.player - INFO - ffmpeg process 149205 should have terminated with a return code of 1.
+2025-01-25 22:06:00,700 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:00,704 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:01,196 - discord.player - INFO - ffmpeg process 149211 has not terminated. Waiting to terminate...
+2025-01-25 22:06:01,199 - discord.player - INFO - ffmpeg process 149211 should have terminated with a return code of 1.
+2025-01-25 22:06:01,912 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:01,917 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:02,402 - discord.player - INFO - ffmpeg process 149213 has not terminated. Waiting to terminate...
+2025-01-25 22:06:02,404 - discord.player - INFO - ffmpeg process 149213 should have terminated with a return code of 1.
+2025-01-25 22:06:03,302 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:03,308 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:03,797 - discord.player - INFO - ffmpeg process 149215 has not terminated. Waiting to terminate...
+2025-01-25 22:06:03,799 - discord.player - INFO - ffmpeg process 149215 should have terminated with a return code of 1.
+2025-01-25 22:06:09,003 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:09,007 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:09,510 - discord.player - INFO - ffmpeg process 149221 has not terminated. Waiting to terminate...
+2025-01-25 22:06:09,513 - discord.player - INFO - ffmpeg process 149221 should have terminated with a return code of 1.
+2025-01-25 22:06:10,271 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:10,277 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:10,763 - discord.player - INFO - ffmpeg process 149223 has not terminated. Waiting to terminate...
+2025-01-25 22:06:10,766 - discord.player - INFO - ffmpeg process 149223 should have terminated with a return code of 1.
+2025-01-25 22:06:11,449 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:11,454 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:11,981 - discord.player - INFO - ffmpeg process 149225 has not terminated. Waiting to terminate...
+2025-01-25 22:06:11,983 - discord.player - INFO - ffmpeg process 149225 should have terminated with a return code of 1.
+2025-01-25 22:06:12,694 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:12,699 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:13,200 - discord.player - INFO - ffmpeg process 149227 has not terminated. Waiting to terminate...
+2025-01-25 22:06:13,202 - discord.player - INFO - ffmpeg process 149227 should have terminated with a return code of 1.
+2025-01-25 22:06:13,552 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:13,556 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:14,053 - discord.player - INFO - ffmpeg process 149229 has not terminated. Waiting to terminate...
+2025-01-25 22:06:14,055 - discord.player - INFO - ffmpeg process 149229 should have terminated with a return code of 1.
+2025-01-25 22:06:17,562 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:17,567 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:18,048 - discord.player - INFO - ffmpeg process 149232 has not terminated. Waiting to terminate...
+2025-01-25 22:06:18,051 - discord.player - INFO - ffmpeg process 149232 should have terminated with a return code of 1.
+2025-01-25 22:06:18,803 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:18,811 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:19,316 - discord.player - INFO - ffmpeg process 149234 has not terminated. Waiting to terminate...
+2025-01-25 22:06:19,318 - discord.player - INFO - ffmpeg process 149234 should have terminated with a return code of 1.
+2025-01-25 22:06:19,681 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:19,686 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:20,188 - discord.player - INFO - ffmpeg process 149236 has not terminated. Waiting to terminate...
+2025-01-25 22:06:20,190 - discord.player - INFO - ffmpeg process 149236 should have terminated with a return code of 1.
+2025-01-25 22:06:23,722 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:23,727 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:24,240 - discord.player - INFO - ffmpeg process 149238 has not terminated. Waiting to terminate...
+2025-01-25 22:06:24,242 - discord.player - INFO - ffmpeg process 149238 should have terminated with a return code of 1.
+2025-01-25 22:06:25,027 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:25,034 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:25,557 - discord.player - INFO - ffmpeg process 149240 has not terminated. Waiting to terminate...
+2025-01-25 22:06:25,559 - discord.player - INFO - ffmpeg process 149240 should have terminated with a return code of 1.
+2025-01-25 22:06:25,903 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:25,908 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:26,420 - discord.player - INFO - ffmpeg process 149242 has not terminated. Waiting to terminate...
+2025-01-25 22:06:26,422 - discord.player - INFO - ffmpeg process 149242 should have terminated with a return code of 1.
+2025-01-25 22:06:29,648 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:29,655 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:30,163 - discord.player - INFO - ffmpeg process 149244 has not terminated. Waiting to terminate...
+2025-01-25 22:06:30,166 - discord.player - INFO - ffmpeg process 149244 should have terminated with a return code of 1.
+2025-01-25 22:06:31,068 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:31,074 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:31,590 - discord.player - INFO - ffmpeg process 149246 has not terminated. Waiting to terminate...
+2025-01-25 22:06:31,593 - discord.player - INFO - ffmpeg process 149246 should have terminated with a return code of 1.
+2025-01-25 22:06:32,378 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:32,384 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:32,855 - discord.player - INFO - ffmpeg process 149248 has not terminated. Waiting to terminate...
+2025-01-25 22:06:32,857 - discord.player - INFO - ffmpeg process 149248 should have terminated with a return code of 1.
+2025-01-25 22:06:33,682 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:33,687 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:06:34,177 - discord.player - INFO - ffmpeg process 149250 has not terminated. Waiting to terminate...
+2025-01-25 22:06:34,178 - discord.player - INFO - ffmpeg process 149250 should have terminated with a return code of 1.
+2025-01-25 22:07:02,498 - discord.client - INFO - logging in using static token
+2025-01-25 22:07:03,722 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9f9e8599c56ed43f460a3ec49b628fd8).
+2025-01-25 22:07:05,739 - __main__ - INFO - Bot đã đăng nhập với tên: Bé iuuu#6877
+2025-01-25 22:07:18,440 - __main__ - INFO - Đang xử lý bài hát: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:07:18,441 - discord.voice_state - INFO - Connecting to voice...
+2025-01-25 22:07:18,441 - discord.voice_state - INFO - Starting voice handshake... (connection attempt 1)
+2025-01-25 22:07:18,871 - discord.voice_state - INFO - Voice handshake complete. Endpoint found: hongkong11083.discord.media
+2025-01-25 22:07:19,118 - discord.voice_state - INFO - Voice connection complete.
+2025-01-25 22:07:23,853 - __main__ - INFO - URL âm thanh cho guild 486785759119147008: https://rr3---sn-42u-i2is.googlevideo.com/videoplayback?expire=1737835640&ei=GPCUZ5OwIqPg7OsPgPbL-As&ip=2403%3A6a40%3A0%3A13%3Aa313%3A627c%3Ad6b6%3Ad75a&id=o-ADrc_s8slXIEcPbEM7w4KQ16QPZajm1Ticapa9_5lvo6&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737814040%2C&mh=S8&mm=31%2C26&mn=sn-42u-i2is%2Csn-30a7rne6&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=4166250&bui=AY2Et-OmuEtlE5cJN1SO71c3cmj98nP1SlXFcAJeyZW1Ki0UIgdyZDxFCM9VSib7AzTJa-3RojZE5004&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=X_SWC9FGpmr1x7x89CEPHckQ&rqh=1&gir=yes&clen=1464425&dur=83.261&lmt=1729375556773184&mt=1737813654&fvip=4&keepalive=yes&lmw=1&fexp=51326932%2C51335594%2C51353498%2C51371294&c=TVHTML5&sefc=1&txp=5532434&n=QzRLe66Xwk0lgQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRQIhAJW8Nmw_G9wKZuba2DseFjGPxKGiWuZsqP11jtCyON7LAiAxhiGq843O3JsDHv5sftR1v7X1q2LSasQ3FIWD82ucWg%3D%3D&sig=AJfQdSswRAIgIrjDlRq3i6zKMisPKiE9t_u0OVUyhCZCoa_bp98KL6ICIEvgKH4ZNWiMogL0c3VWBl6PhR_pNWFAPJeWyE42NM2m
+2025-01-25 22:07:23,857 - __main__ - INFO - Đang cố gắng phát: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:07:23,863 - __main__ - INFO - Đã phát: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:08:18,102 - __main__ - ERROR - Lỗi khi timeout SongSelectionView: 404 Not Found (error code: 10008): Unknown Message
+2025-01-25 22:08:47,186 - discord.player - INFO - ffmpeg process 149261 successfully terminated with return code of 0.
+2025-01-25 22:08:47,904 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:08:47,910 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:08:48,428 - discord.player - INFO - ffmpeg process 149264 has not terminated. Waiting to terminate...
+2025-01-25 22:08:48,430 - discord.player - INFO - ffmpeg process 149264 should have terminated with a return code of 1.
+2025-01-25 22:08:48,797 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:08:48,804 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:08:49,319 - discord.player - INFO - ffmpeg process 149268 has not terminated. Waiting to terminate...
+2025-01-25 22:08:49,321 - discord.player - INFO - ffmpeg process 149268 should have terminated with a return code of 1.
+2025-01-25 22:08:50,032 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:08:50,036 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:08:50,479 - discord.player - INFO - ffmpeg process 149270 has not terminated. Waiting to terminate...
+2025-01-25 22:08:50,481 - discord.player - INFO - ffmpeg process 149270 should have terminated with a return code of 1.
+2025-01-25 22:08:51,169 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:08:51,173 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:08:51,670 - discord.player - INFO - ffmpeg process 149272 has not terminated. Waiting to terminate...
+2025-01-25 22:08:51,672 - discord.player - INFO - ffmpeg process 149272 should have terminated with a return code of 1.
+2025-01-25 22:08:56,606 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:08:56,610 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:08:57,101 - discord.player - INFO - ffmpeg process 149275 has not terminated. Waiting to terminate...
+2025-01-25 22:08:57,103 - discord.player - INFO - ffmpeg process 149275 should have terminated with a return code of 1.
+2025-01-25 22:08:58,693 - discord.voice_state - INFO - The voice handshake is being terminated for Channel ID 721602989835550801 (Guild ID 486785759119147008)
+2025-01-25 22:11:29,878 - discord.client - INFO - logging in using static token
+2025-01-25 22:11:31,251 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 408febc2c0eb9643a24dbe24151ba0a7).
+2025-01-25 22:11:33,288 - __main__ - INFO - Bot đã đăng nhập với tên: Bé iuuu#6877
+2025-01-25 22:11:58,674 - __main__ - INFO - Đang xử lý bài hát: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:11:58,674 - discord.voice_state - INFO - Connecting to voice...
+2025-01-25 22:11:58,675 - discord.voice_state - INFO - Starting voice handshake... (connection attempt 1)
+2025-01-25 22:11:59,107 - discord.voice_state - INFO - Voice handshake complete. Endpoint found: hongkong11083.discord.media
+2025-01-25 22:11:59,368 - discord.voice_state - INFO - Voice connection complete.
+2025-01-25 22:12:04,177 - __main__ - INFO - URL âm thanh cho guild 486785759119147008: https://rr3---sn-42u-i2is.googlevideo.com/videoplayback?expire=1737835920&ei=MPGUZ5npKPLOs8IPvsOZwQ0&ip=2403%3A6a40%3A0%3A13%3Aa313%3A627c%3Ad6b6%3Ad75a&id=o-AGn4PAJ7EBJNR4MsL6DgdQGLSqDu13yxPmmskqboHBzK&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737814320%2C&mh=S8&mm=31%2C26&mn=sn-42u-i2is%2Csn-30a7rne6&ms=au%2Conr&mv=m&mvi=3&pl=48&rms=au%2Cau&initcwndbps=1903750&bui=AY2Et-OG55V2muFUm6RPaO5KOk9M9sqLuMqdAzWyx8FQ9kZGL2pTnuR9C4i7SC8dRRwYe8HC8u5M5mck&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=3WIJjx8t6A2V_bg9OGVqfoYQ&rqh=1&gir=yes&clen=1464425&dur=83.261&lmt=1729375556773184&mt=1737813891&fvip=4&keepalive=yes&lmw=1&fexp=51326932%2C51335594%2C51353498%2C51358316%2C51371294&c=TVHTML5&sefc=1&txp=5532434&n=NllkfvsGvWVM5g&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAOAr4bmJYnX1XdE5daS3SO6mPTLtgeRT9RYUOeBG9N85AiEArgBouFxPJTt7i07v2PBz5r-KXN6d-RHOcI_Cl0ISORM%3D&sig=AJfQdSswRQIgBQ36q1bTT_-Ue7vNUU_k9xUibY28ErW5y7IOv01DIqMCIQC9Clv45UgNzoe2q40CmDZxgtjP2x-Owoi6KCsxST298A%3D%3D
+2025-01-25 22:12:04,178 - __main__ - INFO - Đang cố gắng phát: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:12:04,183 - __main__ - INFO - Đã phát: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:12:58,338 - __main__ - ERROR - Lỗi khi timeout SongSelectionView: 404 Not Found (error code: 10008): Unknown Message
+2025-01-25 22:13:27,505 - discord.player - INFO - ffmpeg process 149288 successfully terminated with return code of 0.
+2025-01-25 22:13:28,239 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:13:28,243 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:14:51,565 - discord.player - INFO - ffmpeg process 149297 successfully terminated with return code of 0.
+2025-01-25 22:14:52,295 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:14:52,299 - __main__ - INFO - Đã phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:15:43,333 - discord.voice_state - INFO - The voice handshake is being terminated for Channel ID 721602989835550801 (Guild ID 486785759119147008)
+2025-01-25 22:15:43,345 - discord.player - INFO - ffmpeg process 149305 successfully terminated with return code of -9.
+2025-01-25 22:15:44,057 - __main__ - INFO - Đang phát bài tiếp theo: SƠN TÙNG M-TP | SKY DECADE | Intro 2022 cho guild 486785759119147008
+2025-01-25 22:15:44,058 - __main__ - ERROR - Lỗi khi phát bài tiếp theo: Not connected to voice.
+2025-01-25 22:15:44,059 - discord.player - INFO - ffmpeg process 149311 has not terminated. Waiting to terminate...
+2025-01-25 22:15:44,059 - discord.player - INFO - ffmpeg process 149311 should have terminated with a return code of -9.
+2025-01-25 22:15:50,796 - discord.client - INFO - logging in using static token
+2025-01-25 22:15:52,160 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ebdffff1ad92ba4052b1b4cbf1ca4eb3).
+2025-01-25 22:15:54,288 - __main__ - INFO - Bot đã đăng nhập với tên: Bé iuuu#6877
+2025-01-25 22:18:20,039 - __main__ - INFO - Đang xử lý bài hát: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:18:20,040 - discord.voice_state - INFO - Connecting to voice...
+2025-01-25 22:18:20,041 - discord.voice_state - INFO - Starting voice handshake... (connection attempt 1)
+2025-01-25 22:18:20,491 - discord.voice_state - INFO - Voice handshake complete. Endpoint found: hongkong11083.discord.media
+2025-01-25 22:18:20,749 - discord.voice_state - INFO - Voice connection complete.
+2025-01-25 22:18:30,483 - __main__ - INFO - URL âm thanh cho guild 486785759119147008: https://rr13---sn-42u-i5olk.googlevideo.com/videoplayback?expire=1737836304&ei=sPKUZ7z8CoHx7OsPkvOAsAo&ip=2403%3A6a40%3A0%3A13%3Aa313%3A627c%3Ad6b6%3Ad75a&id=o-ABiQ-0uK05ODz1EdQlWB_rJqwXHQVUVi0yAwxjhNMus2&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737814704%2C&mh=8m&mm=31%2C26&mn=sn-42u-i5olk%2Csn-30a7yner&ms=au%2Conr&mv=m&mvi=13&pl=48&rms=au%2Cau&initcwndbps=1486250&bui=AY2Et-MJqyyTV5x04mn68sFjDS4ajC9Qs5AxL86abuBv-QOunW1G_7-QmoDwI_kPGxwJTIn6gV5lbLz9&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=vnDh6Fi6_J4fOWkO4Gqpn1UQ&rqh=1&gir=yes&clen=3899122&dur=208.721&lmt=1729684024359561&mt=1737814371&fvip=1&keepalive=yes&lmw=1&fexp=51326932%2C51335594%2C51353498%2C51371294&c=TVHTML5&sefc=1&txp=5432434&n=2gkwV_j2HdQesw&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAIyc5TLy5fjU7zSdHuxL0d2_-AfyDocFvDicrEvhq1w5AiEAiKJEsUMR6Xb6QSqn6FpO3nG7j0nG9cC8ZjU7s_W0Xyg%3D&sig=AJfQdSswRAIgCudeMMCKEHkemJ_19lzf0mT6sTPJhn2Leo2Z0FVg5gACIA0i6ENgSfWIScvGn37jAydBjewP-ieV-CxuW1dGkeMk
+2025-01-25 22:18:30,485 - __main__ - INFO - Đang cố gắng phát: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:18:30,490 - __main__ - INFO - Đã phát: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:18:50,397 - discord.client - INFO - logging in using static token
+2025-01-25 22:18:51,638 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f29724ea077d9bac8320422159245f46).
+2025-01-25 22:18:53,681 - __main__ - INFO - Bot đã đăng nhập với tên: Bé iuuu#6877
+2025-01-25 22:18:58,241 - __main__ - INFO - Đang xử lý bài hát: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:18:58,243 - discord.voice_state - INFO - Connecting to voice...
+2025-01-25 22:18:58,244 - discord.voice_state - INFO - Starting voice handshake... (connection attempt 1)
+2025-01-25 22:18:58,684 - discord.voice_state - INFO - Voice handshake complete. Endpoint found: hongkong11083.discord.media
+2025-01-25 22:18:58,938 - discord.voice_state - INFO - Voice connection complete.
+2025-01-25 22:19:04,175 - __main__ - INFO - URL âm thanh cho guild 486785759119147008: https://rr13---sn-42u-i5olk.googlevideo.com/videoplayback?expire=1737836340&ei=1PKUZ-aCGofbs8IPtcTnuA0&ip=2403%3A6a40%3A0%3A13%3Aa313%3A627c%3Ad6b6%3Ad75a&id=o-ALp2mtb1jGjodRUphIUh9SYa8X_xZTOeJd5eehaCdyh1&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737814740%2C&mh=8m&mm=31%2C26&mn=sn-42u-i5olk%2Csn-30a7rnek&ms=au%2Conr&mv=m&mvi=13&pl=48&rms=au%2Cau&initcwndbps=1486250&bui=AY2Et-O6-egFzlMxTs3Fc6HyIVgUkEJ3HHGbSo8ciZPL_NCXW4Upx7k3DKl7Mlj68tZxAJuhHetG-HJr&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=_GYno4tkBEK_rLgJjkcvjDMQ&rqh=1&gir=yes&clen=3899122&dur=208.721&lmt=1729684024359561&mt=1737814371&fvip=4&keepalive=yes&lmw=1&fexp=51326932%2C51335594%2C51353498%2C51371294&c=TVHTML5&sefc=1&txp=5432434&n=HKCsC0Uv9SAvCw&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRAIgJ_AiW7nT3g6h4mq4QzJ-VJ_ockraeqCAuuYkC-Enza8CIA4U3vc9vE98K_oGshIG7NzNQLygXJEH72tjiHZi9rR9&sig=AJfQdSswRQIhALljXZ0uEnlhPoqnrze9QXY2CcNbwKzR52jf5H-E5vdwAiBdlio5BCeyl8c4_ymoW5LTBQkTjLBbgW0fVnX01Th3Lw%3D%3D
+2025-01-25 22:19:04,176 - __main__ - INFO - Đang cố gắng phát: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:19:04,183 - __main__ - INFO - Đã phát: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:19:18,220 - discord.client - INFO - logging in using static token
+2025-01-25 22:19:19,518 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8814e9b158e2d77bb046b97e4a98a55f).
+2025-01-25 22:19:21,658 - __main__ - INFO - Bot đã đăng nhập với tên: Bé iuuu#6877
+2025-01-25 22:19:41,504 - __main__ - INFO - Đang xử lý bài hát: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:19:41,506 - discord.voice_state - INFO - Connecting to voice...
+2025-01-25 22:19:41,507 - discord.voice_state - INFO - Starting voice handshake... (connection attempt 1)
+2025-01-25 22:19:41,946 - discord.voice_state - INFO - Voice handshake complete. Endpoint found: hongkong11083.discord.media
+2025-01-25 22:19:42,191 - discord.voice_state - INFO - Voice connection complete.
+2025-01-25 22:19:54,138 - __main__ - INFO - URL âm thanh cho guild 486785759119147008: https://rr13---sn-42u-i5olk.googlevideo.com/videoplayback?expire=1737836383&ei=__KUZ6DvIPjs7OsP0dPKuAo&ip=2403%3A6a40%3A0%3A13%3Aa313%3A627c%3Ad6b6%3Ad75a&id=o-APtEZCGe-BPaQSORSLq4_ZqCEPjLQZH2DsvwbtyzEVX2&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737814783%2C&mh=8m&mm=31%2C26&mn=sn-42u-i5olk%2Csn-30a7rnek&ms=au%2Conr&mv=m&mvi=13&pl=48&rms=au%2Cau&initcwndbps=1486250&bui=AY2Et-MGfAt7SkOXGfruNP37aZ1fq3xserKOSFC1DNw1qDGnIGXN3dIAA8HhAlKw-3gZOtqKWZjvTfbP&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=oXVeih3-TjC6lIRkkWK0z04Q&rqh=1&gir=yes&clen=3899122&dur=208.721&lmt=1729684024359561&mt=1737814371&fvip=4&keepalive=yes&lmw=1&fexp=51326932%2C51335594%2C51353498%2C51371294&c=TVHTML5&sefc=1&txp=5432434&n=-_a5c8VZbDgGjQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRQIgM5qYEKjJPqJl31KfGOawlXeu6w6k5a48frFsLnz6GikCIQDiC2oGe6EmCg-2HICQWzkKDA8To-dILYdCrdzONrrLBw%3D%3D&sig=AJfQdSswRQIhAIjzLSvS7u-fuuyzNS9SHlDDdrCLEufAcCZwqcIpzaW1AiBj0LV1QXv-qVw998T1PLtdqiaD-FzODJSGePXmJujWCg%3D%3D
+2025-01-25 22:19:54,140 - __main__ - INFO - Đang cố gắng phát: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:19:54,147 - __main__ - INFO - Đã phát: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:20:41,131 - __main__ - ERROR - Lỗi khi timeout SongSelectionView: 404 Not Found (error code: 10008): Unknown Message
+2025-01-25 22:23:22,930 - discord.player - INFO - ffmpeg process 149387 successfully terminated with return code of 0.
+2025-01-25 22:23:23,642 - __main__ - INFO - Đang phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:23:23,647 - __main__ - INFO - Đã phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:26:52,429 - discord.player - INFO - ffmpeg process 149402 successfully terminated with return code of 0.
+2025-01-25 22:26:53,114 - __main__ - INFO - Đang phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:26:53,119 - __main__ - INFO - Đã phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:30:21,901 - discord.player - INFO - ffmpeg process 149409 successfully terminated with return code of 0.
+2025-01-25 22:30:22,771 - __main__ - INFO - Đang phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:30:22,777 - __main__ - INFO - Đã phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:33:51,560 - discord.player - INFO - ffmpeg process 149412 successfully terminated with return code of 0.
+2025-01-25 22:33:52,763 - __main__ - INFO - Đang phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:33:52,769 - __main__ - INFO - Đã phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:37:21,552 - discord.player - INFO - ffmpeg process 149429 successfully terminated with return code of 0.
+2025-01-25 22:37:22,213 - __main__ - INFO - Đang phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:37:22,219 - __main__ - INFO - Đã phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:40:51,001 - discord.player - INFO - ffmpeg process 149443 successfully terminated with return code of 0.
+2025-01-25 22:40:51,697 - __main__ - INFO - Đang phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:40:51,702 - __main__ - INFO - Đã phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:44:20,484 - discord.player - INFO - ffmpeg process 149469 successfully terminated with return code of 0.
+2025-01-25 22:44:21,156 - __main__ - INFO - Đang phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:44:21,161 - __main__ - INFO - Đã phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:47:49,943 - discord.player - INFO - ffmpeg process 149491 successfully terminated with return code of 0.
+2025-01-25 22:47:50,785 - __main__ - INFO - Đang phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:47:50,791 - __main__ - INFO - Đã phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:51:19,573 - discord.player - INFO - ffmpeg process 149520 successfully terminated with return code of 0.
+2025-01-25 22:51:20,411 - __main__ - INFO - Đang phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:51:20,416 - __main__ - INFO - Đã phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:54:49,199 - discord.player - INFO - ffmpeg process 149541 successfully terminated with return code of 0.
+2025-01-25 22:54:49,993 - __main__ - INFO - Đang phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:54:49,999 - __main__ - INFO - Đã phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:58:18,781 - discord.player - INFO - ffmpeg process 149569 successfully terminated with return code of 0.
+2025-01-25 22:58:19,548 - __main__ - INFO - Đang phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
+2025-01-25 22:58:19,551 - __main__ - INFO - Đã phát bài tiếp theo: BRIM - drink (Official Lyric Video) cho guild 486785759119147008
