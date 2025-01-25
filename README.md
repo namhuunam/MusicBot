@@ -204,5 +204,3 @@ pip install -r requirements.txt
 
 ## **📝 Tác giả**
 Dự án được phát triển để hỗ trợ cộng đồng Discord. Nếu bạn thấy hữu ích, hãy để lại ⭐ trên GitHub của chúng tôi!
-## 📝 **Tác giả**
-Dự án được phát triển để hỗ trợ cộng đồng Discord Việt Nam. Nếu bạn thấy hữu ích, hãy để lại ⭐ trên GitHub của chúng tôi!
