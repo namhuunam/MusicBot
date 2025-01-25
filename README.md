@@ -1,7 +1,12 @@
 
+# 🎵 Discord Music Bot và Voice Bot 🎙️
+
+Dự án này bao gồm hai bot Discord với các chức năng mạnh mẽ:
+1. **Bot nhạc (`bot.py`)**: Cho phép phát nhạc từ YouTube, quản lý hàng đợi nhạc, và hỗ trợ các lệnh điều khiển nhạc dễ dàng.
+2. **Bot giọng nói (`voice.py`)**: Chào người dùng khi họ tham gia kênh thoại và hỗ trợ lệnh phát âm thanh từ văn bản.
+
 ---
 
-## 🚀 **Chức năng đầy đủ của bot**
 ## 🚀 **Chức năng chính**
 
 ### **Bot nhạc (`bot.py`)**
