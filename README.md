@@ -118,7 +118,9 @@ pip install -r requirements.txt
 2. Thay thế thành proxy của bạn theo dạng `http://user:pass@ip:port` ví dụ `http://user123:pass123@192.168.1.1:8080` .
 
 **Vì sao phải sử dụng proxy ? Vì một số vps bị youtube block ip lên phải sử dụng proxy để lấy url âm thanh của youtube**
+
 **Còn nếu ip vps của bạn không bị block thì bạn có thể xóa bỏ proxy đi cũng được**
+
 **Lưu ý là phải thay proxy không là bot sẽ không phát nhạc được**
 
 ### **6. Chạy bot thủ công, chỉ cần chạy một file bot.py**
