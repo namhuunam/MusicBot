@@ -80,6 +80,10 @@ Dự án này bao gồm hai bot Discord với các chức năng mạnh mẽ:
 3. Nhập tên bot mà bạn muốn (sau đó tải ảnh avt tùy theo ý muốn của bạn)
 4. Bấm vào biểu tượng Bot ở cột bên phải sau đó bấm nút `Reset Token` rồi Copy token và nhập vào file .env
 5. Tương tự tạo tiếp một Bot nữa như các bước trên rồi nhập vào `DISCORD_TOKEN_2` trong file `.env` để làm bot chuyển text sang giọng đọc
+6. Thêm 2 Bot vừa tạo vào Server Discord của bạn bằng cách:
+   - bấm vào `OAuth2` ở cột bên trái sau đó `OAuth2 URL Generator` đánh dấu vào `Bot`
+   - `Bot Permissions` đánh dấu tích vào `Send Messages`, `Connect`, `Speak`, `Manage Messages`.
+   - Sau đó phần `Generated URL` ở cuối trang sẽ có đường link bạn `copy` và dán vào tab trình duyệt rồi add bot vào server discord của mình.
 ## **Hướng dẫn cài đặt trên Linux (Ubuntu)**
 ### **1. Cập nhật hệ thống**
 ```bash
