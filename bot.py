@@ -14,8 +14,38 @@ import logging
 from cachetools import TTLCache
 import subprocess
 
-# Khởi chạy voice.py
-subprocess.Popen(["python", "voice.py"])
+# -----------------------------#
+#    Đọc Thông Tin Proxy        #
+# -----------------------------#
+
+# Lấy đường dẫn tuyệt đối của thư mục hiện tại
+current_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Đường dẫn đến file proxy.txt
+proxy_txt_path = os.path.join(current_dir, "proxy.txt")
+
+# Kiểm tra xem proxy.txt có tồn tại không
+if not os.path.isfile(proxy_txt_path):
+    logging.warning(f"Không tìm thấy {proxy_txt_path}. Bot sẽ chạy mà không sử dụng proxy.")
+    PROXY_URL = None
+else:
+    # Đọc nội dung proxy từ proxy.txt
+    with open(proxy_txt_path, 'r') as proxy_file:
+        PROXY_URL = proxy_file.read().strip()
+
+    if not PROXY_URL:
+        logging.info("Không sử dụng proxy vì proxy.txt trống.")
+        PROXY_URL = None
+
+# -----------------------------#
+#        Chạy voice.py          #
+# -----------------------------#
+
+# Lấy đường dẫn tuyệt đối của file voice.py
+voice_py_path = os.path.join(current_dir, "voice.py")
+
+# Chạy voice.py với python3
+subprocess.Popen(["/root/bot/venv/bin/python3", voice_py_path])
 
 # -----------------------------#
 #        Cài Đặt Logging        #
@@ -129,7 +159,7 @@ class MusicPlayer:
         self.music_queue = asyncio.Queue()
         self.current_control_message = None
         self.disconnect_task = None
-        self.audio_cache = TTLCache(maxsize=100, ttl=3600)  # Bộ nhớ đệm với TTL 2 giờ
+        self.audio_cache = TTLCache(maxsize=100, ttl=3600)  # Bộ nhớ đệm với TTL 1 giờ
         self.text_channel = text_channel  # Kênh TextChannel để gửi thông báo
         self.played_songs = []  # Danh sách các bài hát đã được phát
 
@@ -465,8 +495,10 @@ async def get_audio_stream_url(music_player, url):
         'restrictfilenames': True,
         'skip_download': True,
         'cachedir': False,
-        'proxy': 'http://user123:pass123@192.168.1.1:8080'
     }
+
+    if PROXY_URL:
+        ydl_opts['proxy'] = PROXY_URL
 
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
@@ -558,11 +590,16 @@ async def process_song_selection_from_selection(music_player, song, user_voice_c
             music_player.current_song = current_song_info
             try:
                 logger.info(f"Đang cố gắng phát: {current_song_info['title']} cho guild {music_player.guild_id}")
+                
+                before_options = '-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5'
+                if PROXY_URL:
+                    before_options += f' -http_proxy {PROXY_URL}'
+
                 music_player.voice_client.play(
                     discord.FFmpegOpusAudio(
                         executable=FFMPEG_PATH,
                         source=current_song_info['url'],
-                        before_options='-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5 -http_proxy http://user123:pass123@192.168.1.1:8080',
+                        before_options=before_options,
                         options='-vn -c:a copy -loglevel quiet'  # Stream copy để giảm tải CPU
                     ),
                     after=lambda e: asyncio.run_coroutine_threadsafe(play_next(music_player.guild_id), bot.loop)
@@ -601,11 +638,16 @@ async def play_next(guild_id):
         if music_player.is_looping and music_player.current_song:
             try:
                 logger.info(f"Lặp lại bài hát: {music_player.current_song['title']} cho guild {guild_id}")
+
+                before_options = '-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5'
+                if PROXY_URL:
+                    before_options += f' -http_proxy {PROXY_URL}'
+
                 music_player.voice_client.play(
                     discord.FFmpegOpusAudio(
                         executable=FFMPEG_PATH,
                         source=music_player.current_song["url"],
-                        before_options='-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5 -http_proxy http://user123:pass123@192.168.1.1:8080',
+                        before_options=before_options,
                         options='-vn -c:a copy -loglevel quiet'  # Stream copy để giảm tải CPU
                     ),
                     after=lambda e: asyncio.run_coroutine_threadsafe(play_next(guild_id), bot.loop)
@@ -628,11 +670,16 @@ async def play_next(guild_id):
             music_player.current_song = next_song
             try:
                 logger.info(f"Đang phát bài tiếp theo: {next_song['title']} cho guild {guild_id}")
+
+                before_options = '-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5'
+                if PROXY_URL:
+                    before_options += f' -http_proxy {PROXY_URL}'
+
                 music_player.voice_client.play(
                     discord.FFmpegOpusAudio(
                         executable=FFMPEG_PATH,
                         source=next_song["url"],
-                        before_options='-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5 -http_proxy http://user123:pass123@192.168.1.1:8080',
+                        before_options=before_options,
                         options='-vn -c:a copy -loglevel quiet'  # Stream copy để giảm tải CPU
                     ),
                     after=lambda e: asyncio.run_coroutine_threadsafe(play_next(guild_id), bot.loop)
@@ -796,6 +843,10 @@ async def on_ready():
     """
     Sự kiện khi bot đã sẵn sàng và đăng nhập thành công.
     """
+    if PROXY_URL:
+        logger.info(f"Bot đang sử dụng proxy: {PROXY_URL}")
+    else:
+        logger.info("Bot không sử dụng proxy.")
     logger.info(f'Bot đã đăng nhập với tên: {bot.user}')
 
 @bot.event
